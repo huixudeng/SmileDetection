@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ca37616519e9396320497efcf83bed0bc24e5f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="815b04d74de49585f8ea022d7101beccb410af10">
+        <dex dex="/Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_51b290b9c3ef7fe0f54862305bb4fbdbfe191b43/classes.dex" />
+    </item>
+
+</items>

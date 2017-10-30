@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:9:1-42:12
+	package
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/ChandlerTen/.android/build-cache/167d1f9944f9dda6cc0cd5cd5a520697af5d5951/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/ChandlerTen/.android/build-cache/2b63df83fa9723f6b75bfd4a0e4c3660e97802e0/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/ChandlerTen/.android/build-cache/677a0abbfc51fd51d814dc3402394c0c958b9301/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/ChandlerTen/.android/build-cache/9179103a89338ea8ca2295238ccc9543a082ec33/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/ChandlerTen/.android/build-cache/167d1f9944f9dda6cc0cd5cd5a520697af5d5951/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/ChandlerTen/.android/build-cache/b962bb7d0ad127f034a6d09e316a16249d408dc8/output/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:14:22-77
+application
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:16:5-40:19
+MERGED from [com.google.android.gms:play-services:7.8.0] /Users/ChandlerTen/.android/build-cache/d26619f4ebd09bee5a7172338e7a40a52f120f3f/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/ChandlerTen/.android/build-cache/167d1f9944f9dda6cc0cd5cd5a520697af5d5951/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] /Users/ChandlerTen/.android/build-cache/c479628535d6fabbf84c1450b445ff0237d9fea8/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/ChandlerTen/.android/build-cache/2b63df83fa9723f6b75bfd4a0e4c3660e97802e0/output/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] /Users/ChandlerTen/.android/build-cache/27e77de18daa9df3a07d5cc9385fb107db334c4f/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] /Users/ChandlerTen/.android/build-cache/1c09e8fc11b67e83729012107945dc089d319cfe/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/ChandlerTen/.android/build-cache/d08c75b8a70ed44472d15903c5b22c88c45a798b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ChandlerTen/.android/build-cache/d7213d2fdafb8e5d349cc0a9405f390988a4f9e7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ChandlerTen/.android/build-cache/f98ee43a8671306c9dd0f939b2a7af4dfa14a7d0/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ChandlerTen/.android/build-cache/9828435fa1b658509f1eda80ede5d972a4c1cc5c/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] /Users/ChandlerTen/.android/build-cache/339a65bc87737b8dfbbee1f63ac3822247f4112c/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.8.0] /Users/ChandlerTen/.android/build-cache/c63d3fc6e5a6cbc81a2ee45bdcd9a06c770d1fa9/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] /Users/ChandlerTen/.android/build-cache/6047ef406341cb4995809ee7ae18b80f38e7b0b5/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/ChandlerTen/.android/build-cache/677a0abbfc51fd51d814dc3402394c0c958b9301/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/ChandlerTen/.android/build-cache/9b7fa7716967bde17acc13e0479fbef6ccde7e71/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/ChandlerTen/.android/build-cache/b962bb7d0ad127f034a6d09e316a16249d408dc8/output/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] /Users/ChandlerTen/.android/build-cache/9e861193440991abf5c3f3f5042bbe4e14ced88e/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] /Users/ChandlerTen/.android/build-cache/eeea4eb5751d0ffac8d87d5439f30574ed074729/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] /Users/ChandlerTen/.android/build-cache/f63e919f95b19dbf0ff78f5bced5fe7bbf4904fd/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] /Users/ChandlerTen/.android/build-cache/301323512845b06bbc143c21cd1fbf80796c650e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] /Users/ChandlerTen/.android/build-cache/7ef95d78f2aacd9b2be23bbab95700c1112981ef/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/ChandlerTen/.android/build-cache/d8447c13976de21d269ca46e35deea207404668d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/ChandlerTen/.android/build-cache/82efac8d2ed92ff3e7afdb3a640616271d8cb41c/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ChandlerTen/.android/build-cache/40a196c134a2902d6bdae288aea95f04bfdaa396/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ChandlerTen/.android/build-cache/58d5676b126757720e086a00cf4d341db7355127/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:26:13-48
+activity#com.parse.starter.MainActivity
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:35:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:38:19-51
+activity#com.parse.starter.UserStatusActivity
+ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml:39:19-53
+uses-sdk
+INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:7.8.0] /Users/ChandlerTen/.android/build-cache/d26619f4ebd09bee5a7172338e7a40a52f120f3f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/ChandlerTen/.android/build-cache/167d1f9944f9dda6cc0cd5cd5a520697af5d5951/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] /Users/ChandlerTen/.android/build-cache/c479628535d6fabbf84c1450b445ff0237d9fea8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/ChandlerTen/.android/build-cache/2b63df83fa9723f6b75bfd4a0e4c3660e97802e0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] /Users/ChandlerTen/.android/build-cache/27e77de18daa9df3a07d5cc9385fb107db334c4f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] /Users/ChandlerTen/.android/build-cache/1c09e8fc11b67e83729012107945dc089d319cfe/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/ChandlerTen/.android/build-cache/d08c75b8a70ed44472d15903c5b22c88c45a798b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/ChandlerTen/.android/build-cache/d7213d2fdafb8e5d349cc0a9405f390988a4f9e7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/ChandlerTen/.android/build-cache/f98ee43a8671306c9dd0f939b2a7af4dfa14a7d0/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/ChandlerTen/.android/build-cache/9828435fa1b658509f1eda80ede5d972a4c1cc5c/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] /Users/ChandlerTen/.android/build-cache/339a65bc87737b8dfbbee1f63ac3822247f4112c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.8.0] /Users/ChandlerTen/.android/build-cache/c63d3fc6e5a6cbc81a2ee45bdcd9a06c770d1fa9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] /Users/ChandlerTen/.android/build-cache/6047ef406341cb4995809ee7ae18b80f38e7b0b5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/ChandlerTen/.android/build-cache/677a0abbfc51fd51d814dc3402394c0c958b9301/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/ChandlerTen/.android/build-cache/9b7fa7716967bde17acc13e0479fbef6ccde7e71/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/ChandlerTen/.android/build-cache/b962bb7d0ad127f034a6d09e316a16249d408dc8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] /Users/ChandlerTen/.android/build-cache/9e861193440991abf5c3f3f5042bbe4e14ced88e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] /Users/ChandlerTen/.android/build-cache/eeea4eb5751d0ffac8d87d5439f30574ed074729/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] /Users/ChandlerTen/.android/build-cache/f63e919f95b19dbf0ff78f5bced5fe7bbf4904fd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] /Users/ChandlerTen/.android/build-cache/301323512845b06bbc143c21cd1fbf80796c650e/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/ChandlerTen/.android/build-cache/9179103a89338ea8ca2295238ccc9543a082ec33/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] /Users/ChandlerTen/.android/build-cache/7ef95d78f2aacd9b2be23bbab95700c1112981ef/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/ChandlerTen/.android/build-cache/d8447c13976de21d269ca46e35deea207404668d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/ChandlerTen/.android/build-cache/82efac8d2ed92ff3e7afdb3a640616271d8cb41c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/ChandlerTen/.android/build-cache/40a196c134a2902d6bdae288aea95f04bfdaa396/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ChandlerTen/.android/build-cache/58d5676b126757720e086a00cf4d341db7355127/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/ChandlerTen/.android/build-cache/d7213d2fdafb8e5d349cc0a9405f390988a4f9e7/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+		INJECTED from /Users/ChandlerTen/Documents/ArchHacks/SmileDetection/SmileDetection/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/ChandlerTen/.android/build-cache/3764589ad4371be7f6cfb4b926497f21fb7e0742/output/AndroidManifest.xml:30:19-91
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/ChandlerTen/.android/build-cache/677a0abbfc51fd51d814dc3402394c0c958b9301/output/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/ChandlerTen/.android/build-cache/677a0abbfc51fd51d814dc3402394c0c958b9301/output/AndroidManifest.xml:21:22-79
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/ChandlerTen/.android/build-cache/9179103a89338ea8ca2295238ccc9543a082ec33/output/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/ChandlerTen/.android/build-cache/9179103a89338ea8ca2295238ccc9543a082ec33/output/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/ChandlerTen/.android/build-cache/9179103a89338ea8ca2295238ccc9543a082ec33/output/AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/ChandlerTen/.android/build-cache/9179103a89338ea8ca2295238ccc9543a082ec33/output/AndroidManifest.xml:22:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:22:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/ChandlerTen/.android/build-cache/ba51c5cdc9a860a5deecbc37cf2ff55b30009494/output/AndroidManifest.xml:25:8-31
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.8.0] /Users/ChandlerTen/.android/build-cache/82efac8d2ed92ff3e7afdb3a640616271d8cb41c/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.8.0] /Users/ChandlerTen/.android/build-cache/82efac8d2ed92ff3e7afdb3a640616271d8cb41c/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.8.0] /Users/ChandlerTen/.android/build-cache/82efac8d2ed92ff3e7afdb3a640616271d8cb41c/output/AndroidManifest.xml:22:13-58
